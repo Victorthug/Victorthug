@@ -15,7 +15,7 @@
 
 <p align="center">
 
-<a href="https://api.whatsapp.com/send?phone=254700437079&text=𝘩𝘦𝘭𝘭𝘰+𝘮𝘢𝘴𝘵𝘦𝘳"><img src="https://img.shields.io/badge/Contact Thug-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send?phone=254700437079&text=𝘩𝘦𝘭𝘭𝘰+thug"><img src="https://img.shields.io/badge/Contact Thug-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 </p>
 
