@@ -2,13 +2,7 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+Thug-MD;Multi+Device+Whatsapp+Bot;" alt="Typing SVG" /></a>
   
-<p align="center">  
-  <a href="https://youtube.com/channel/UCLUS9v7q4JagAqIJ3eeMM8w">   
-    <img src="https://telegra.ph/file/054986c17ed343e74ca6b.jpg"width="500" height="500"/>
-</p>
-</br>
-
-</br>
+<p align="center"> 
 </br>
 
 ## ```Connect With Me```
@@ -24,7 +18,7 @@
 ## ```Bot Support Groups```
 <p align="center">
 
-<a href="https://chat.whatsapp.com/LhBwWwQAS4y93XOsCKpxdv"><img src="https://img.shields.io/badge/Join support group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/BfBRDRvvVtXAsAqpyRQ9Gp"><img
 
 </p>
 
@@ -143,7 +137,7 @@ npm i -g pm2 && pm2 start  index.js && pm2 save && pm2 logs
 ```
 <br>
 <br>
- <h2 align="center"> 🔖Thanks to
+ <h2 align="center"> 🫴Thanks to
 </h2>
 
 1. **Thug**
