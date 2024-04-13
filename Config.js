@@ -5,7 +5,7 @@ const chalk = require('chalk')
 global.ownernumber = ['254700437079']
 global.ownername = "Thug🫴"//owner name
 global.ytname = "YT: Thug Md"
-global.socialm = "GitHub: Brashokish"
+global.socialm = "GitHub: victorthug"
 global.location = "Kenyan"
 
 global.botname = 'Thug-𝐌𝐃' //name of the bot
@@ -19,7 +19,7 @@ global.themeemoji = '🧩'
 global.wm = "Thug botz inc."
 
 //theme link
-global.link = 'https://chat.whatsapp.com/LhBwWwQAS4y93XOsCKpxdv'
+global.link = 'https://chat.whatsapp.com/BfBRDRvvVtXAsAqpyRQ9Gp'
 
 //custom prefix
 global.prefa = ['.']
@@ -39,7 +39,7 @@ global.always_online = true // always online
 
 //reply messages
 global.mess = {
-    done: '*here you go!* \n\n*𓅃 Thug Md 𓅃*\n\n*🧩 Bot link:* \nhttps://github.com/Brashokish/Thug-MD\n',
+    done: '*here you go!* \n\n*𓅃 Thug Md 𓅃*\n\n*🧩 Bot link:* \nhttps://github.com/victorthug/Thug-MD\n',
     prem: '*This feature can be used by premium user only*',
     admin: '*This feature can be used by admin only*',
     botAdmin: '*This feature can only be used when the bot is a group admin* ',
