@@ -27,7 +27,7 @@
 
 Fork the repo
     <br>
-<a href='https://github.com/Brashokish/Thug-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+<a href='https://github.com/victorthug/Thug-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
 
 
@@ -37,7 +37,7 @@ Fork the repo
 </h2>
 
 ## ` Scan with WhatsApp`
-<h2 align="left">  <a href="https://replit.com/@brashokish/Qr-scanner-Thug-Md?v=1"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
+<h2 align="left">  <a href="https://replit.com/@victorthug/Qr-scanner-Thug-Md?v=1"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
 </a>
 </h2>
 
@@ -49,7 +49,7 @@ Fork the repo
 
 
 
-<a href="https://heroku.com/deploy?template=https://github.com/Brashokish/Thug-MD">
+<a href="https://heroku.com/deploy?template=https://github.com/victorthug/Thug-MD">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
 
@@ -116,7 +116,7 @@ pkg install yarn
 
 pkg install imagemagick -y
 
-git clone https://github.com/Brashokish/Thug-MD
+git clone https://github.com/victorthugThug-MD
 
 cd Thug-Md
 
