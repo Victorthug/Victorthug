@@ -124,7 +124,7 @@ pkg install imagemagick -y
 
 git clone https://github.com/Brashokish/Kish-MD
 
-cd Kish-Md
+cd Thug-Md
 
 rm -rf session
 
@@ -146,6 +146,6 @@ npm i -g pm2 && pm2 start  index.js && pm2 save && pm2 logs
  <h2 align="center"> 🔖Thanks to
 </h2>
 
-1. **KISH𓅃**
+1. **A thug𓅃**
 
 2. **MGTOPHAZ**
