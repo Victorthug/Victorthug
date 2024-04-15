@@ -4,7 +4,7 @@
   
 <p align="center">  
   <a href="https://youtube.com/channel/UCLUS9v7q4JagAqIJ3eeMM8w">   
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers.ai%2Fresult%2F%3Flang%3Dmt%26conversion%3D8fae3c0e18204649b2538046d032b028&psig=AOvVaw10ME30qnn2cf1oHRcmCJIA&ust=1713265826673000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDKnO6KxIUDFQAAAAAdAAAAABAJ" />
+    <img src="https://wallpaper.mob.org/image/technology-hacker-hacking-virus-806715.html" />
 </p>
 </br>
 
