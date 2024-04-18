@@ -1,10 +1,10 @@
-# Thug-MD 
+# KISH-MD 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+Thug-MD;Multi+Device+Whatsapp+Bot;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+KISH-MD;Multi+Device+Whatsapp+Bot;" alt="Typing SVG" /></a>
   
 <p align="center">  
   <a href="https://youtube.com/channel/UCLUS9v7q4JagAqIJ3eeMM8w">   
-    <img src="https://wallpapercave.com/w/wp8716653" />
+    <img src=""width="500" height="500"/>
 </p>
 </br>
 
@@ -15,7 +15,7 @@
 
 <p align="center">
 
-<a href="https://api.whatsapp.com/send?phone=254700437079&text=𝘩𝘦𝘭𝘭𝘰+thug"><img src="https://img.shields.io/badge/Contact Thug𓅃-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send?phone=254745936840&text=𝘩𝘦𝘭𝘭𝘰+𝘮𝘢𝘴𝘵𝘦𝘳"><img src="https://img.shields.io/badge/Contact KISH𓅃-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 </p>
 
@@ -66,7 +66,8 @@ Fork the repo
 <br>
   <a href="https://github.com/codespaces/new"><img title="A17 on Gitub Codespace" src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=black&style=for-the-badge&logo=visualstudiocode" />
 </a>
-  <br>
+  <br>![technology-hacker-hacking-virus-806715](https://github.com/Victorthug/Victorthug/assets/166913417/d1ef10f5-2a4a-4728-932c-ca651d06a635)
+
 <br>
   <a href="https://studio.mogenius.com/studio/cloud-space/cloud-space-overview"><img title="A17 on Mogenius" src="https://img.shields.io/badge/DEPLOY MOGENIUS-h?color=blue&style=for-the-badge&logo=genius"></a>
 </a>
@@ -124,7 +125,7 @@ pkg install imagemagick -y
 
 git clone https://github.com/Brashokish/Kish-MD
 
-cd Thug-Md
+cd Kish-Md
 
 rm -rf session
 
@@ -146,6 +147,7 @@ npm i -g pm2 && pm2 start  index.js && pm2 save && pm2 logs
  <h2 align="center"> 🔖Thanks to
 </h2>
 
-1. **A thug𓅃**
+1. **KISH𓅃**
 
 2. **MGTOPHAZ**
+
