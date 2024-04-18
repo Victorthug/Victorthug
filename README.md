@@ -66,7 +66,7 @@ Fork the repo
 <br>
   <a href="https://github.com/codespaces/new"><img title="A17 on Gitub Codespace" src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=black&style=for-the-badge&logo=visualstudiocode" />
 </a>
-  <br>![technology-hacker-hacking-virus-806715](https://github.com/Victorthug/Victorthug/assets/166913417/d1ef10f5-2a4a-4728-932c-ca651d06a635)
+  <br>
 
 <br>
   <a href="https://studio.mogenius.com/studio/cloud-space/cloud-space-overview"><img title="A17 on Mogenius" src="https://img.shields.io/badge/DEPLOY MOGENIUS-h?color=blue&style=for-the-badge&logo=genius"></a>
